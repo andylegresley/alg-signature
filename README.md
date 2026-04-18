@@ -1,6 +1,26 @@
-# ALG Signature Images
+# ALG Signatures
 
-## ALG — `images/alg/signature/`
+HTML email signatures for Andy Le Gresley, designed for Apple Mail. Image assets are hosted from this repo via raw GitHub URLs so signatures work in any mail client without attachments.
+
+## Signatures
+
+| Brand | File | Live preview (GitHub Pages) |
+|-------|------|-----------------------------|
+| ALG (main) | [`signature.html`](signature.html) | https://andylegresley.github.io/alg-signature/signature.html |
+| ALG Weddings | [`signature-weddings.html`](signature-weddings.html) | https://andylegresley.github.io/alg-signature/signature-weddings.html |
+
+> Pages hosting requires GitHub Pages to be enabled on the repo (Settings → Pages → Source: `main` / root). Signatures still work in mail clients without Pages — the embedded images come from `raw.githubusercontent.com`.
+
+### Installing in Apple Mail
+
+1. Open the raw HTML file in Safari (or paste the HTML into a new Mail message).
+2. In Mail → Settings → Signatures, create a new signature and paste the rendered content in.
+3. Uncheck "Always match my default message font" so the signature's fonts and colours are preserved.
+4. Send yourself a test message to confirm images load on both macOS and iOS Mail.
+
+## Image assets
+
+### ALG — `images/alg/signature/`
 
 | Image | Raw URL |
 |-------|---------|
@@ -26,7 +46,7 @@
 ![Website](https://raw.githubusercontent.com/andylegresley/alg-signature/main/images/alg/signature/website.png)
 ![Website 3](https://raw.githubusercontent.com/andylegresley/alg-signature/main/images/alg/signature/website3.png)
 
-## ALG Weddings — `images/alg-weddings/signature/`
+### ALG Weddings — `images/alg-weddings/signature/`
 
 | Image | Raw URL |
 |-------|---------|
