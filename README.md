@@ -4,10 +4,12 @@ HTML email signatures for Andy Le Gresley, designed for Apple Mail. Image assets
 
 ## Signatures
 
-| Brand | File | Live preview (GitHub Pages) |
-|-------|------|-----------------------------|
-| ALG (main) | [`signature.html`](signature.html) | https://andylegresley.github.io/alg-signature/signature.html |
-| ALG Weddings | [`signature-weddings.html`](signature-weddings.html) | https://andylegresley.github.io/alg-signature/signature-weddings.html |
+| Person | Brand | File | Live preview (GitHub Pages) |
+|--------|-------|------|-----------------------------|
+| Andy | ALG (main) | [`signature.html`](signature.html) | https://andylegresley.github.io/alg-signature/signature.html |
+| Andy | ALG Weddings | [`signature-weddings.html`](signature-weddings.html) | https://andylegresley.github.io/alg-signature/signature-weddings.html |
+| Susan | ALG (main) | [`susan-signature.html`](susan-signature.html) | https://andylegresley.github.io/alg-signature/susan-signature.html |
+| Susan | ALG Weddings | [`susan-signature-weddings.html`](susan-signature-weddings.html) | https://andylegresley.github.io/alg-signature/susan-signature-weddings.html |
 
 > Pages hosting requires GitHub Pages to be enabled on the repo (Settings → Pages → Source: `main` / root). Signatures still work in mail clients without Pages — the embedded images come from `raw.githubusercontent.com`.
 
